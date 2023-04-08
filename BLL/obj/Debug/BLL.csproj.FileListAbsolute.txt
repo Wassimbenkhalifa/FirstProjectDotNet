@@ -1,0 +1,6 @@
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\bin\Debug\BLL.dll
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\bin\Debug\BLL.pdb
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\obj\Debug\BLL.dll
+D:\INGTA 3A\DotNET\GestionDeGarage\BLL\obj\Debug\BLL.pdb
