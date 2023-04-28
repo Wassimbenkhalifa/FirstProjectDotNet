@@ -7,18 +7,19 @@ using System.Threading.Tasks;
 namespace BLL
 {
     public enum SubType
-    { Voiture, Moto }
+    {
+        Voiture, Moto
+    };
     internal interface IGarage
     {
-       
-      
-            string AddAuto(Automobile au);
-            string UpdateAuto(Automobile au);
-            int GetIndexAuto(Automobile a1);
-            string DeleteAuto(string immatriculation);
-            Automobile GetAuto(string immatriculation);
-            List<Automobile> AfficherAutomobiles
-                (SubType soustype);
-        }
+
+        String AddAuto(Automobile au);
+        String updateAuto(Automobile au);
+        int GetIndexAuto(Automobile au);
+        String DeleteAuto(String immatriculation);
+
+        Automobile GetAuto(String immatriculation);
+        List<Automobile> AfficherAutomoiles(SubType soustype);
     }
+}
 
